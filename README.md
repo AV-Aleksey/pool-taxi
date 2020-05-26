@@ -1,2 +1,2 @@
 # pool-taxi
- ![screenshot](taxi.png).
+ ![screenshot](taxi.jpg).
